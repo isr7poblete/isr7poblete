@@ -150,7 +150,7 @@ Paralelamente construí desde cero una **plataforma web completa en producción*
      Reconocimiento formal de gerencia Claro
 
 📡  Activación 5G N78 a nivel nacional en Chile
-     Encendido, configuración y monitoreo completo de celdas
+     Encendido, monitoreo completo de celdas
 
 🚇  Integración nocturna Metro de Santiago
      Múltiples líneas · Infraestructura crítica nacional
@@ -163,7 +163,7 @@ Paralelamente construí desde cero una **plataforma web completa en producción*
 
 <div align="center">
 
-**Santiago, Chile · +56 9 2943 3208 · israel.xtobarx@gmail.com**
+**Santiago, Chile · +56 9 xxxxxxx · israel.xxxxxxx@gmail.com**
 
 *Wireless Engineer de día · Developer de noche* 🌙
 
