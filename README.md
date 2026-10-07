@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Israel Poblete
 
-### Wireless Engineer · Full Stack Developer · DevOps
+### Wireless Engineer · Infrastructure & Systems · DevOps ·Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-israel--poblete--tobar-0077B5?style=for-the-badge&logo=linkedin)](https://cl.linkedin.com/in/israel-poblete-tobar)
 [![Email](https://img.shields.io/badge/Email-israel.xtobarx@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:israel.xtobarx@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero en Conectividad y Redes titulado de DUOC UC, con **2.5 años de experiencia en Huawei Technologies** como Wireless Engineer especializado en redes RAN 2G/3G/4G/5G.
+Ingeniero en Conectividad y Redes titulado de DUOC UC, con **4 años de experiencia profesional como Wireless Engineer especializado en redes RAN 2G/3G/4G/5G y Soporte e Infraestructura TI.
 
 Paralelamente construí desde cero una **plataforma web completa en producción** para un servidor de roleplay — incluyendo autenticación OAuth2 con Discord, panel de administración, sistema de tickets bidireccional web↔Discord, editor de fotos con Canvas API y toda la infraestructura en VPS Linux.
 
@@ -25,7 +25,7 @@ Paralelamente construí desde cero una **plataforma web completa en producción*
 ## 📡 Experiencia Profesional
 
 ### Huawei Technologies Co., Ltd. — Wireless Engineer
-**Jul 2024 – May 2025 | Santiago, Chile**
+**Jan 2024 – Jun 2026 | Santiago, Chile**
 
 - 🏆 Único Wireless Engineer responsable del despliegue **5.5G NSA+SA** para ClaroVTR + Universidad Católica — **5.3 Gbps reales en producción** — transmitido en TV en vivo — reconocimiento formal de gerencia Claro
 - 📡 Activación **5G N78 a nivel nacional** — encendido, configuración y monitoreo de celdas en todo Chile
